@@ -15,7 +15,7 @@
 
 ![conectat demo](https://your-image-url.com/conectat-preview.png)
 
-### 📌 [Proyecto-PWA - Aplicación Progresiva con Laravel + Vue.js](https://github.com/tuusuario/proyecto-pwa)
+### 📌 [Proyecto-PWA - Aplicación Progresiva con Laravel + Vue.js](https://github.com/MrCris-SC/proyecto-pwa)
 
 ![pwa-preview](https://your-image-url.com/pwa-banner.png)
 
