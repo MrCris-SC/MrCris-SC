@@ -1,9 +1,7 @@
 <h1 align="center">Portafolio de Cristino Solís</h1>
 <h3 align="center">Ingeniero en Sistemas | Desarrollador Web Full Stack</h3>
 
-<p align="center">
-  <img src="https://your-image-url.com/banner.jpg" width="100%" alt="Banner profesional">
-</p>
+
 
 ---
 
