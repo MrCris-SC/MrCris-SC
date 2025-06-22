@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Cristino 👨‍💻</h1>
 
-<!--
-**MrCris-SC/MrCris-SC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://your-image-url.com/banner.jpg" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+- 🎓 Ingeniero en Sistemas
+- 💻 Apasionado por Laravel, Vue.js y desarrollo web
+- 🚀 Actualmente trabajando en proyectos reales para empresas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Proyectos destacados
+
+### 📌 [ConectaT - Plataforma para empresa de internet](https://github.com/tuusuario/conectat)
+> Proyecto web + móvil (Laravel + Kotlin) que gestiona paquetes de internet, clientes y pagos.
+
+![conectat demo](https://your-image-url.com/conectat-preview.png)
+
+### 📌 [Quejas Universitarias - App de gestión](https://github.com/tuusuario/quejas-app)
+> Sistema digital para recibir y dar seguimiento a quejas universitarias.
+
+---
+
+## 🛠 Tecnologías
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
