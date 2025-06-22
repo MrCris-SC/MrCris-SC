@@ -1,68 +1,75 @@
-<div align="center" style="background-color:#f2f2f2; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
-  <h1>Bienvenido al Portafolio de Cristino Solís</h1>
+<div align="center" style="padding: 40px; background: linear-gradient(to right, #e8f0ff, #f4f8ff); border-radius: 12px;">
+  <h1 style="font-size: 2.5em; color: #003366;">Portafolio de Cristino Solís</h1>
+  <p style="font-size: 1.2em; color: #333;">Ingeniero en Sistemas | Desarrollador Web Full Stack</p>
 </div>
 
 <p align="center">
-  <img src="https://your-image-url.com/banner.jpg" width="100%" alt="Banner profesional" />
+  <img src="https://your-image-url.com/banner.jpg" width="100%" alt="Banner profesional" style="border-radius: 10px;" />
 </p>
 
 ---
 
-### Sobre mí
+## Sobre mí
 
-Ingeniero en Sistemas con experiencia en desarrollo web moderno utilizando Laravel y Vue.js. He participado en proyectos empresariales con despliegue en entornos reales (AWS) y enfoque en aplicaciones progresivas (PWA), escalables y con buenas prácticas de seguridad y rendimiento.
+<p align="justify">
+Ingeniero en Sistemas enfocado en el desarrollo de aplicaciones modernas usando Laravel y Vue.js. He liderado y desarrollado proyectos reales con despliegue en servidores AWS, incluyendo soluciones progresivas (PWA) que funcionan en condiciones de conectividad limitada. Me especializo en crear interfaces limpias, seguras y escalables.
+</p>
 
 ---
 
 ## Proyectos destacados
 
-### [ConectaT - Plataforma para empresa de internet](https://github.com/MrCris-SC/conectat)
-Plataforma web + móvil (Laravel + Kotlin) que permite la gestión integral de paquetes de internet, clientes, contratos, pagos y tickets de soporte.
+<div align="center">
+  
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MrCris-SC/conectat">ConectaT</a></h3>
+        <p>
+          Plataforma integral web + móvil para gestión de servicios de internet. Soporta clientes, contratos, pagos y tickets de soporte.
+        </p>
+        <ul>
+          <li>Laravel + Kotlin</li>
+          <li>Base de datos MySQL</li>
+          <li>App Android + Panel web</li>
+        </ul>
+        <img src="https://your-image-url.com/conectat-preview.png" width="100%" style="border-radius: 10px;" alt="ConectaT">
+      </td>
+      
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/MrCris-SC/proyecto-pwa">Proyecto-PWA</a></h3>
+        <p>
+          Aplicación progresiva (PWA) desarrollada con Laravel + Vue.js. Incluye autenticación, soporte offline y despliegue en AWS.
+        </p>
+        <ul>
+          <li>Vue.js 3 + PWA Manifest</li>
+          <li>Laravel 10 + API Backend</li>
+          <li>Deploy en AWS EC2 (Apache)</li>
+        </ul>
+        <img src="https://your-image-url.com/pwa-banner.png" width="100%" style="border-radius: 10px;" alt="Proyecto PWA">
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://your-image-url.com/conectat-preview.png" width="80%" alt="Vista previa de ConectaT" />
-</p>
+</div>
 
 ---
 
-### [Proyecto-PWA - Aplicación Progresiva con Laravel + Vue.js](https://github.com/MrCris-SC/proyecto-pwa)
-
-Aplicación PWA con autenticación de usuarios, soporte offline y despliegue en AWS. Ideal para entornos con conectividad limitada.
+## Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://your-image-url.com/pwa-banner.png" width="80%" alt="Vista previa del proyecto PWA" />
-</p>
-
-**Tecnologías utilizadas:**
-
-- Laravel 10  
-- Vue.js 3 + Vue Router  
-- PWA Manifest + Service Workers  
-- MySQL  
-- AWS EC2 (Ubuntu + Apache)
-
-**Características principales:**
-
-- Soporte offline con Service Worker  
-- Gestión de usuarios con autenticación  
-- Interfaz responsiva y adaptable  
-- Despliegue real en infraestructura cloud (AWS EC2)
-
----
-
-## Tecnologías dominadas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel" />
-  <img src="https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin" />
+  <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 ---
 
 ## Contacto
 
-Puedes contactarme enviando un correo a: crissolis115@gmail.com
-
+<p align="center">
+  📧 <strong>crissolis115@gmail.com</strong><br>
+  💼 Puedes revisar más proyectos en mi perfil de GitHub o contactarme por correo para más información.
+</p>
