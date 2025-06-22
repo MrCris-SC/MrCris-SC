@@ -64,5 +64,5 @@ Aplicación PWA con autenticación de usuarios, soporte offline y despliegue en 
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/tuusuario) o enviarme un correo a: **tucorreo@ejemplo.com**
+Puedes contactarme enviando un correo a: crissolis115@gmail.com
 
