@@ -10,14 +10,27 @@
 
 ## 🔥 Proyectos destacados
 
-### 📌 [ConectaT - Plataforma para empresa de internet](https://github.com/tuusuario/conectat)
+### 📌 [ConectaT - Plataforma para empresa de internet](https://github.com/MrCris-SC/conectat)
 > Proyecto web + móvil (Laravel + Kotlin) que gestiona paquetes de internet, clientes y pagos.
 
 ![conectat demo](https://your-image-url.com/conectat-preview.png)
 
-### 📌 [Quejas Universitarias - App de gestión](https://github.com/tuusuario/quejas-app)
-> Sistema digital para recibir y dar seguimiento a quejas universitarias.
+### 📌 [Proyecto-PWA - Aplicación Progresiva con Laravel + Vue.js](https://github.com/tuusuario/proyecto-pwa)
 
+![pwa-preview](https://your-image-url.com/pwa-banner.png)
+
+**🔧 Tecnologías usadas:**
+- Laravel 10
+- Vue.js 3 + Vue Router
+- PWA Manifest + Service Workers
+- MySQL
+- AWS EC2 (Deploy)
+
+**🌐 Funcionalidades destacadas:**
+- ✅ Soporte offline con Service Worker
+- ✅ Gestión de usuarios y autenticación
+- ✅ Panel de administración responsive
+- ✅ Despliegue en servidor EC2 (Linux, Apache)
 ---
 
 ## 🛠 Tecnologías
